@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792835286585",
+    "project_id": "vehicleocr-b7421",
+    "storage_bucket": "vehicleocr-b7421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792835286585:android:c1ca147c25da32d3474fe8",
+        "android_client_info": {
+          "package_name": "com.example.vehicleocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792835286585-e16c7d7l74dd4b5tl5u0p7a5ms68n90d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW7MhCoJ4cYQV5CQQYGywU8ArtVtprd48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792835286585-e16c7d7l74dd4b5tl5u0p7a5ms68n90d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
